@@ -1,0 +1,20 @@
+{
+  "user": "sanketmali4",
+  "key": "Nt7WxbXzjUzT8kfpbEKC",
+
+  "capabilities": {
+    "build": "behave-browserstack",
+    "name": "parallel_test",
+    "browserstack.debug": true
+  },
+
+  "environments": [{
+    "browser": "chrome"
+  },{
+    "browser": "chrome"
+  },{
+    "browser": "chrome"
+  },{
+    "browser": "chrome"
+  }]
+}

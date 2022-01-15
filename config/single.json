@@ -1,0 +1,14 @@
+{
+  "user": "sanketmali4",
+  "key": "Nt7WxbXzjUzT8kfpbEKC",
+
+  "capabilities": {
+    "build": "behave-browserstack",
+    "name": "single_test",
+    "browserstack.debug": true
+  },
+
+  "environments": [{
+    "browser": "chrome"
+  }]
+}
