@@ -1,6 +1,6 @@
 {
-  "user": "sanketmali4",
-  "key": "Nt7WxbXzjUzT8kfpbEKC",
+  "user": "USERNAME",
+  "key": "ACCESS_KEY",
 
   "capabilities": {
     "build": "behave-browserstack",
